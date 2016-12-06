@@ -15,7 +15,17 @@
     </recordtable>
    </node>
    <node crypt="" id="1481023660iib7zfj17i" name="GameDev">
-    <node crypt="" id="1481023672oexzmdx7qt" name="Hexagons"/>
+    <node crypt="" id="1481023672oexzmdx7qt" name="Hexagons">
+     <recordtable>
+      <record id="1481023743lur40vygt7" name="Гайд по гексагональным сеткам" author="" url="http://www.redblobgames.com/grids/hexagons/" tags="гексы, hexagons, карта, игры" ctime="20161206162903" dir="14810237438l46cewn24" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1481023812bkbuhkpmcn" name="Библиотеки">
+     <recordtable>
+      <record id="1481023858lux50vqc4i" name="Мануал по rot.js" author="" url="https://ondras.github.io/rot.js/manual/" tags="javascript, игры, рогалик, roguelike" ctime="20161206163058" dir="1481023858rfeavt9qbd" file="text.html"/>
+      <record id="1481023926rkof9jo1cv" name="libGDX" author="" url="https://libgdx.badlogicgames.com/features.html" tags="java, игры" ctime="20161206163206" dir="1481023926b47cxjqd8t" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" id="1481023121g2azbpq89q" name="toki pona">
