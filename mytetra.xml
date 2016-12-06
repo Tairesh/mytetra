@@ -40,6 +40,10 @@
     <record id="1481023217bnm9u1l0ur" name="Викиучебник" author="" url="https://ru.wikibooks.org/wiki/Токипона" tags="toki pona" ctime="20161206162017" dir="14810232173ioip8eptj" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="" id="1481029963prgccjurk6" name="Гитара"/>
+  <node crypt="" id="1481029963prgccjurk6" name="Гитара">
+   <recordtable>
+    <record id="1481030045vrcgraipsf" name="Строй в Drop D" author="" url="" tags="гитара" ctime="20161206181405" dir="1481030045bg8xbe6qep" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
