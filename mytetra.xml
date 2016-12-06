@@ -29,7 +29,7 @@
     <node crypt="" id="14810292732ojjul888a" name="PolitSim">
      <recordtable>
       <record id="14810294076ji1r1ml6g" name="Папка со всякими мыслями на Google Drive" author="" url="https://drive.google.com/drive/folders/0BwkI4vFH9qoUWlg1MVdMT00ycVk" tags="" ctime="20161206180327" dir="1481029407eg7ymltmjy" file="text.html"/>
-      <record id="1481029503rwdecg455h" name="Скорость обучения рабочих" author="" url="" tags="ПС" ctime="20161206180503" dir="14810295039ewwmuoxvb" file="text.html"/>
+      <record id="1481029503rwdecg455h" name="Скорость обучения рабочих" author="" url="" tags="ПС/население, ПС/экономика" ctime="20161206180503" dir="14810295039ewwmuoxvb" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -40,5 +40,6 @@
     <record id="1481023217bnm9u1l0ur" name="Викиучебник" author="" url="https://ru.wikibooks.org/wiki/Токипона" tags="toki pona" ctime="20161206162017" dir="14810232173ioip8eptj" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1481029963prgccjurk6" name="Гитара"/>
  </content>
 </root>
