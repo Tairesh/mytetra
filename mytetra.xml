@@ -3,9 +3,9 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+  <node crypt="" id="1300000000aaaaaaaaa1" name="MyTetra">
    <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1300000000aaaaaaaaa3" name="Main" author="" url="" tags="MyTetra" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="148102163747kuxp7vjn" name="Прикладное пограммирование">
@@ -24,6 +24,11 @@
      <recordtable>
       <record id="1481023858lux50vqc4i" name="Мануал по rot.js" author="" url="https://ondras.github.io/rot.js/manual/" tags="javascript, игры, рогалик, roguelike" ctime="20161206163058" dir="1481023858rfeavt9qbd" file="text.html"/>
       <record id="1481023926rkof9jo1cv" name="libGDX" author="" url="https://libgdx.badlogicgames.com/features.html" tags="java, игры" ctime="20161206163206" dir="1481023926b47cxjqd8t" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14810292732ojjul888a" name="PolitSim">
+     <recordtable>
+      <record id="14810294076ji1r1ml6g" name="Папка со всякими мыслями на Google Drive" author="" url="https://drive.google.com/drive/folders/0BwkI4vFH9qoUWlg1MVdMT00ycVk" tags="" ctime="20161206180327" dir="1481029407eg7ymltmjy" file="text.html"/>
      </recordtable>
     </node>
    </node>
