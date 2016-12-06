@@ -15,5 +15,11 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="1481023121g2azbpq89q" name="toki pona">
+   <recordtable>
+    <record id="1481023163qzzvq74r1y" name="Словарь" author="" url="" tags="toki pona" ctime="20161206161923" dir="1481023163w4omylztg6" file="text.html"/>
+    <record id="1481023217bnm9u1l0ur" name="Викиучебник" author="" url="https://ru.wikibooks.org/wiki/Токипона" tags="toki pona" ctime="20161206162017" dir="14810232173ioip8eptj" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
