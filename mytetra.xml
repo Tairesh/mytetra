@@ -8,7 +8,7 @@
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="" id="148102163747kuxp7vjn" name="Программирование">
+  <node crypt="" id="148102163747kuxp7vjn" name="Прикладное пограммирование">
    <node crypt="" id="14810216458s61ryag1m" name="JavaScript">
     <recordtable>
      <record id="1481021881oyey1q2kjw" name="Перемешивание массива" author="" url="" tags="shuffle, JavaScript" ctime="20161206155801" dir="1481021881leqb0c1fro" file="text.html"/>
