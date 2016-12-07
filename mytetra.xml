@@ -34,6 +34,11 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="14811092109bsqxxadny" name="CVS">
+    <recordtable>
+     <record id="14811093899jkaicwyrr" name="Файлы конфигов в CVS" author="" url="" tags="CVS, git" ctime="20161207161629" dir="148110938945qt90dz4m" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1481023121g2azbpq89q" name="toki pona">
    <recordtable>
