@@ -3,7 +3,7 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="148102163747kuxp7vjn" name="Прикладное пограммирование">
+  <node crypt="" id="148102163747kuxp7vjn" name="Программирование">
    <node crypt="" id="14810216458s61ryag1m" name="JavaScript">
     <recordtable>
      <record id="1481021881oyey1q2kjw" name="Перемешивание массива" author="" url="" tags="shuffle, JS" ctime="20161206155801" dir="1481021881leqb0c1fro" file="text.html"/>
@@ -33,6 +33,11 @@
    <node crypt="" id="14811092109bsqxxadny" name="CVS">
     <recordtable>
      <record id="14811093899jkaicwyrr" name="Файлы конфигов в CVS" author="" url="" tags="CVS, git" ctime="20161207161629" dir="148110938945qt90dz4m" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1481203281lrl9v2wa4y" name="Linux">
+    <recordtable>
+     <record id="14812033680i22nisqmo" name="Распаковать .tar.gz" author="" url="" tags="tar, tar.gz" ctime="20161208182248" dir="14812033687x3idtq7fi" file="text.html"/>
     </recordtable>
    </node>
   </node>
