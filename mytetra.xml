@@ -3,11 +3,6 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="MyTetra">
-   <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="Main" author="" url="" tags="MyTetra" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-   </recordtable>
-  </node>
   <node crypt="" id="148102163747kuxp7vjn" name="Прикладное пограммирование">
    <node crypt="" id="14810216458s61ryag1m" name="JavaScript">
     <recordtable>
