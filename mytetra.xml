@@ -8,6 +8,7 @@
     <recordtable>
      <record id="1481021881oyey1q2kjw" name="Перемешивание массива" author="" url="" tags="shuffle, JS" ctime="20161206155801" dir="1481021881leqb0c1fro" file="text.html"/>
      <record id="1481031947rrjw8a13s8" name="Подсветка синтаксиса кода в HTML" author="" url="https://github.com/ccampbell/rainbow" tags="JS, HTML, CSS" ctime="20161206184547" dir="1481031947wmiueqq4ki" file="text.html"/>
+     <record id="1481196197d9iecpjh1g" name="Запуск процессов Node.JS в фоне" author="" url="" tags="JS, node.js, forever, linux" ctime="20161208162317" dir="14811961979ce65j3k43" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481023660iib7zfj17i" name="GameDev">
