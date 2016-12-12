@@ -4,6 +4,9 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="148102163747kuxp7vjn" name="Программирование">
+   <recordtable>
+    <record id="14815342698a9g2de99v" name="Декодер-энкодер HTML-entities" author="" url="http://www.web2generators.com/html-based-tools/online-html-entities-encoder-and-decoder" tags="HTML" ctime="20161212141749" dir="1481534269hmxekwp7pw" file="text.html"/>
+   </recordtable>
    <node crypt="" id="14810216458s61ryag1m" name="JavaScript">
     <recordtable>
      <record id="1481021881oyey1q2kjw" name="Перемешивание массива" author="" url="" tags="shuffle, JS" ctime="20161206155801" dir="1481021881leqb0c1fro" file="text.html"/>
